@@ -45,7 +45,7 @@ public class browsertest {
 		
 		//textBox.sendKeys("Automation Step by Step");
 		
-		Thread.sleep(3000);
+		Thread.sleep(1000);
 		
 		driver.close();
 		//driver.quit();
